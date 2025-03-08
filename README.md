@@ -1,4 +1,5 @@
 # BDD_Lab03
+# Parte 1
 # Laboratorio de BDD con Selenium, ChromeDriver y Java en GitHub Codespaces
 
 Este laboratorio permite configurar un entorno de desarrollo en GitHub Codespaces para ejecutar pruebas automatizadas con Selenium y Cucumber en un proyecto Java Maven.
@@ -196,3 +197,58 @@ mvn test
 Descarga el archivo `target/HtmlReports/report.html` para revisar los reportes de ejecución.
 
 Con estos pasos, el entorno estará listo y funcional en GitHub Codespaces. 🚀
+
+# Parte 2
+# BDD con Selenium y Cucumber - Laboratorio
+
+## Descripción
+Este proyecto implementa pruebas automatizadas utilizando el patrón **PageFactory** en **Selenium** con **Cucumber** para realizar pruebas en la página de prueba [The Internet](https://the-internet.herokuapp.com/).
+
+## Características
+✅ Implementación del patrón **PageFactory**
+✅ Uso de **Cucumber** para definir escenarios en lenguaje Gherkin
+✅ Pruebas de UI automatizadas con **Selenium WebDriver**
+✅ Manejo de distintos escenarios de prueba
+✅ Configuración con **Maven** para ejecución eficiente
+
+## 📌 Instalación y Configuración
+### **1️⃣ Prerrequisitos**
+Asegúrate de tener instalado lo siguiente:
+- [Java 17+](https://adoptopenjdk.net/)
+- [Maven](https://maven.apache.org/download.cgi)
+- [ChromeDriver](https://chromedriver.chromium.org/downloads)
+
+### **2️⃣ Clonar el Repositorio**
+```sh
+git clone https://github.com/jacro103/BDD_Lab03.git
+cd bdd-selenium-lab
+```
+
+### **3️⃣ Ejecutar las Pruebas**
+Ejecuta todas las pruebas con:
+```sh
+mvn test
+```
+O ejecuta un runner específico:
+```sh
+mvn -Dtest=DragAndDropRunner test
+```
+
+## 📝 Escenario Implementado:
+
+Drag and Drop
+Add remove
+CheckBoxes
+
+## 🚀 Tecnologías Usadas
+- **Java 17**
+- **Selenium WebDriver**
+- **Cucumberk**
+- **JUnit 5**
+- **Maven**
+
+## Autor
+
+Jose Alejandro Correa Rodriguez
+
+
