@@ -1,2 +1,8 @@
+steps/LoginSteps.class
+pages/NumberInputPage.class
 steps/SearchSteps.class
+pages/LoginPage.class
+pages/ABTestingPage.class
+steps/NumberInputSteps.class
 TestRunner.class
+steps/ABTestingSteps.class

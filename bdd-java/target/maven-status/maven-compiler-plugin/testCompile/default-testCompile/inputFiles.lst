@@ -1,2 +1,8 @@
+/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/ABTestingPage.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/LoginPage.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/NumberInputPage.java
 /workspaces/BDD_Lab03/bdd-java/src/test/java/runners/TestRunner.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/ABTestingSteps.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/LoginSteps.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/NumberInputSteps.java
 /workspaces/BDD_Lab03/bdd-java/src/test/java/steps/SearchSteps.java
