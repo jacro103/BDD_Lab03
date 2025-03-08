@@ -1,8 +1,11 @@
-/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/ABTestingPage.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/AddRemovePage.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/CheckboxesPage.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/DragAndDropPage.java
 /workspaces/BDD_Lab03/bdd-java/src/test/java/pages/LoginPage.java
-/workspaces/BDD_Lab03/bdd-java/src/test/java/pages/NumberInputPage.java
 /workspaces/BDD_Lab03/bdd-java/src/test/java/runners/TestRunner.java
-/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/ABTestingSteps.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/AddRemoveSteps.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/CheckboxesSteps.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/DragAndDropSteps.java
 /workspaces/BDD_Lab03/bdd-java/src/test/java/steps/LoginSteps.java
-/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/NumberInputSteps.java
 /workspaces/BDD_Lab03/bdd-java/src/test/java/steps/SearchSteps.java
+/workspaces/BDD_Lab03/bdd-java/src/test/java/steps/UserRegistrationSteps.java

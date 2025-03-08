@@ -1,8 +1,11 @@
 steps/LoginSteps.class
-pages/NumberInputPage.class
+steps/AddRemoveSteps.class
+pages/AddRemovePage.class
+steps/UserRegistrationSteps.class
+pages/DragAndDropPage.class
+pages/CheckboxesPage.class
 steps/SearchSteps.class
+steps/CheckboxesSteps.class
 pages/LoginPage.class
-pages/ABTestingPage.class
-steps/NumberInputSteps.class
+steps/DragAndDropSteps.class
 TestRunner.class
-steps/ABTestingSteps.class
